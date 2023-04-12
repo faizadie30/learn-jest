@@ -1,0 +1,14 @@
+{
+  "name": "learn-jest",
+  "version": "1.0.0",
+  "description": "learn jest unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "faizadie30",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
